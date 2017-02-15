@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "WeatherVC.(downloadForecastData(completed : () -&gt; ()) -&gt; ()).(closure #1):WeatherVC.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "FORECAST_BASE_URL">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "CurrentWeather.downloadWeatherData(complete : () -&gt; ()) -&gt; ():CurrentWeather.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "response.result">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "WeatherVC.updateMainUI() -&gt; ():WeatherVC.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "currentWeather.cityName">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
